@@ -1,12 +1,13 @@
 # main links links
 main:
 
-  - title: "People"
-    url: /people/
+ 
+  - title: "Research Projects"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
-
+    
   # - title: "Service"
   #   url: /Service/
 
@@ -15,6 +16,9 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
+
+  - title: "People"
+    url: /people/
     
   # - title: "Portfolio"
   #   url: /portfolio/
