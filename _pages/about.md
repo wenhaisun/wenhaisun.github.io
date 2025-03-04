@@ -45,6 +45,10 @@ Honors and Awards
 
 
 ## Selected Publications
+**[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025  
+**[NDSS'25]** Xiaoguang Li, Zitao Li, Ninghui Li and Wenhai Sun, _"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks,"_ The Network and Distributed System Security Symposium, 2025  
+**[TSC'24]** Xuefeng Liu, Zhe Feng, Le Wang, Wenhai Sun, Qingqi Pei, Xiaodong Lin, and Huizhong Li, _"Confidential Distributed Ledgers for Online Syndicated Lending,"_ IEEE Transactions on Service Computing, 2024
+
 
 ## Recent Services
 
