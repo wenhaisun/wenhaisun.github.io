@@ -80,7 +80,6 @@ Honors and Awards
 * **[AsiaCCS'13]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ The 8th ACM Symposium on Information, Computer and Communications Security, 2013. (Distinguished Paper Award).
 
 ## Recent Services
-
 ### Technical Program Committees
 ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS (2020 - 2025, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
