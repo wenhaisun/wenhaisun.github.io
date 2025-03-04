@@ -45,10 +45,39 @@ Honors and Awards
 
 
 ## Selected Publications
-**[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025  
-**[NDSS'25]** Xiaoguang Li, Zitao Li, Ninghui Li and Wenhai Sun, _"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks,"_ The Network and Distributed System Security Symposium, 2025  
-**[TSC'24]** Xuefeng Liu, Zhe Feng, Le Wang, Wenhai Sun, Qingqi Pei, Xiaodong Lin, and Huizhong Li, _"Confidential Distributed Ledgers for Online Syndicated Lending,"_ IEEE Transactions on Service Computing, 2024
-
+**[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
+**[NDSS'25]** Xiaoguang Li, Zitao Li, Ninghui Li and Wenhai Sun, _"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks,"_ The Network and Distributed System Security Symposium, 2025.  
+**[TSC'24]** Xuefeng Liu, Zhe Feng, Le Wang, Wenhai Sun, Qingqi Pei, Xiaodong Lin, and Huizhong Li, _"Confidential Distributed Ledgers for Online Syndicated Lending,"_ IEEE Transactions on Service Computing, 2024.
+**[RAID'24]** Mabon Ninan, Evan Nimmo, Shane Reilly, Channing Smith, Wenhai Sun, Boyang Wang, and John M. Emmert, _"A Second Look at the Portability of Deep Learning Side-Channel Attacks over EM Traces,"_ The 27th International Symposium on Research in Attacks, Intrusions and Defenses, 2024.  
+**[TDSC'24]** Ming Zhang, Wenhai Sun, Hui Li, Xiaofeng Wang, Zihao Yang, Chao Qu, and Xiaoguang Li, _"Manipulated Transaction Collision Attack on Execute-Order-Validate Blockchain,"_ IEEE Transactions on Dependable and Secure Computing, 2024. 
+**[TIFS'24]** Jing Lei, Le Wang, Qingqi Pei, Wenhai Sun, Xiaodong Lin, and Xuefeng Liu, _"PrivGrid: Privacy-Preserving Individual Load Forecasting Service for Smart Grid,"_ IEEE Transactions on Information Forensics and Security, 2024.  
+**[DSN'24]** Jinghui Liao, Borui Gong, Wenhai Sun, Fengwei Zhang, Zhenyu Ning, Man Ho Allen Au, and Weisong Shi, _"BFTRAND: Low-latency Random Number Provider for BFT Smart Contracts,"_ The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, 2024.  
+**[NeurIPS'23]** Haonan Yan, Wenjing Zhang, Qian Chen, Xiaoguang Li, Wenhai Sun, Hui Li, and Xiaodong Lin, _"RECESS Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks,"_ The 37th Conference on Neural Information Processing Systems, 2023.  
+**[NeurIPS'23]** Zelei Cheng, Xian Wu, Jiahao Yu, Wenbo Guo, Wenhai Sun, and Xinyu Xing, _"StateMask: Explaining Deep Reinforcement Learning through State Mask,"_ The 37th Conference on Neural Information Processing Systems, 2023.  
+**[Security'23]** Xiaoguang Li, Ninghui Li, Wenhai Sun, Neil Gong, and Hui Li, _"Fine-grained Poisoning Attack to Local Differential Privacy Protocols for Mean and Variance Estimation,"_ USENIX Security 2023.  
+**[IoTJ'23]** Shekh Md Mahmudul Islam, Yao Zheng, Yanjun Pan, Marionne Millan, Willy Chang, Ming Li, Olga Borić-Lubecke, Victor Lubecke, and Wenhai Sun, _"Cross-Modality Continuous User Authentication and Device Pairing with Respiratory Patterns,"_ IEEE Internet of Things, 2023.  
+**[TDSC'22]** Xiaoguang Li, Haonan Yan, Zelei Cheng, Wenhai Sun, and Hui Li, _"Protecting Regression Models with Personalized Local Differential Privacy,"_ EEE Transactions on Dependable and Secure Computing, 2022.  
+**[CNS'22]** Hao Liu, Wenhai Sun, Nan Niu and Boyang Wang, _"MultiEvasion: Evasion Attacks Against Multiple Malware Detectors,"_ IEEE Conference on Communications and Network Security, 2022.  
+**[IWQoS'22]** Hao Liu, Jimmy Dani, Hongkai Yu, Wenhai Sun and Boyang Wang, _"AdvTraffic: Obfuscating Encrypted Traffic with Adversarial Examples,"_ IEEE/ACM International Symposium on Quality of Service, 2022.  
+**[AsiaCCS'22]** Jinghui Liao, Fengwei Zhang, Wenhai Sun, and Weisong Shi, _"Speedster: An Efficient Multi-party State Channel via Enclaves,"_ The 17th ACM ASIA Conference on Computer and Communications Security, 2022.  
+**[FC'22]** Tiantian Gong, Mohen Minaei, Wenhai Sun, and Aniket Kate, _"Towards Overcoming the Undercutting Problem,"_ Financial Cryptography and Data Security, 2022.  
+**[TDSC'21]** Jing Lei, Qingqi Pei, Yao Wang, Wenhai Sun, and Xuefeng Liu, _"PrivFace: Fast Privacy-preserving Face Authentication with Revocable and Reusable Biometric Credentials,"_ IEEE Transactions on Dependable and Secure Computing, 2021.    
+**[TDSC'21]** Haonan Yan, Xiaoguang Li, Hui Li, Jiamin Li, Wenhai Sun, and Fenghua Li, _"Monitoring-based Differential Privacy Mechanism Against Query-Flooding Parameter Duplication Attack,"_ IEEE Transactions on Dependable and Secure Computing, 2021.  
+**[WiSec'20]** Chenggang Wang, Sean Kennedy, Haipeng Li, King Hudson, Gowtham Atluri, Xuetao Wei, Wenhai Sun, and Boyang Wang, _"Fingerprinting Encrypted Voice Traffic on Smart Speakers with Deep Learning,"_ ACM Conference on Security and Privacy in Wireless and Mobile Network, 2020.  
+**[CNS'19]** Sean Kennedy, Haipeng Li, Chenggang Wang, Hao Liu, Boyang Wang, and Wenhai Sun, _"I Can Hear Your Alexa: Voice Command Fingerprinting on Smart Home Speakers,"_ IEEE Conference on Communications and Network Security, 2019.  
+**[TIFS'18]** Yaxing Chen, Wenhai Sun, Ning Zhang, Qinghua Zheng, Wenjing Lou, and Y.Thomas Hou, _"Towards Efficient Fine-grained Access Control and Trustworthy Data Processing for Remote Monitoring Services in IoT,"_ IEEE Transactions on Information Forensics & Security, 2018.  
+**[CNS'18]** Wenhai Sun, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, _"Tapping the Potential: Secure Chunk-based Deduplication of Encrypted Data for Cloud Backup,"_ IEEE Conference on Communications and Network Security, 2018.  
+**[CNS'18]** Ning Zhang, Wenhai Sun, Wenjing Lou, Y. Thomas Hou, and Wade Trappe, _"ROSTER: Radio Context Attestation in Cognitive Radio Network,"_ IEEE Conference on Communications and Network Security, 2018.  
+**[INFOCOM'18]** Wenhai Sun, Ruide Zhang, Wenjing Lou, and Y. Thomas Hou, _"REARGUARD: Secure Keyword Search Using Trusted Hardware,"_ IEEE International Conference on Computer Communications, 2018. (Best-in-Session Presentation Award)  
+**[SECURECOMM'18]** Yaxing Chen, Wenhai Sun, Ning Zhang, Qinghua Zheng, Wenjing Lou, and Y. Thomas Hou, _"Secure Remote Monitoring Framework Supporting Efficient Fine-grained Access Control and Data Processing in IoT,"_ The 14th International Conference on Security and Privacy in Communication Networks, 2018.  
+**[INFOCOM'17]** Wenhai Sun, Ning Zhang, Wenjing Lou, and Y. Thomas Hou, _"When Gene Meets Cloud: Enabling Scalable and Efficient Range Query on Encrypted Genomic Data,"_ IEEE International Conference on Computer Communications, 2017.  
+**[INFOCOM'17]** Xuefeng Liu, Wenhai Sun, Wenjing Lou, Qingqi Pei, and Yuqing Zhang, _"One-tag Checker: Message-locked Integrity Auditing on Encrypted Cloud Deduplication Storage,"_ IEEE International Conference on Computer Communications, 2017.  
+**[TSC'17]** Xuefeng Liu, Wenhai Sun, Hanyu Quan, Wenjing Lou, Yuqing Zhang, and Hui Li, _"Publicly Verifiable Inner Product Evaluation over Outsourced Data Streams under Multiple Keys,"_ IEEE Transactions on Service Computing, 2017.  
+**[TPDS'16]** Wenhai Sun, Shucheng Yu, Wenjing Lou, Y.Thomas Hou, and Hui Li, _"Protecting Your Right: Verifiable Attribute-based Keyword Search with Fine-grained Owner-enforced Search Authorization in the Cloud,"_ IEEE Transactions on Parallel and Distributed Systems, 2016.  
+**[INFOCOM'15]** Wenhai Sun, Xuefeng Liu, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Catch You If You Lie To Me: Efficient Verifiable Conjunctive Keyword Search over Large Dynamic Encrypted Cloud Data,"_ IEEE International Conference on Computer Communications, 2015.  
+**[TPDS'14]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y.Thomas Hou, and Hui Li, _"Verifiable Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ IEEE Transactions on Parallel and Distributed Systems, 2014.  
+**[INFOCOM'14]** Wenhai Sun, Shucheng Yu, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Protecting Your Right: Attribute-based Keyword Search with Fine-grained Owner-enforced Search Authorization in the Cloud,"_ IEEE International Conference on Computer Communications, 2014.  
+**[AsiaCCS'13]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ The 8th ACM Symposium on Information, Computer and Communications Security, 2013. (Distinguished Paper Award).
 
 ## Recent Services
 
@@ -75,7 +104,7 @@ ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS
 
 ### Alumni
 * Zhen Li, PhD, 2019 - 2024
-* Xiaoguang Li, Visting PhD Student, 2019 - 2021
+* Xiaoguang Li, Visiting PhD Student, 2019 - 2021
 * Zelei Cheng, MS Student, 2019 - 2022
 * Hengkai Ye, MS Student, 2020 -2022
 
