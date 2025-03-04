@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenhai Sun, Purdue University"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
