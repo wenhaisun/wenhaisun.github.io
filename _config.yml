@@ -13,7 +13,7 @@ title                    : "Wenhai Sun | Purdue University"
 title_separator          : "-"
 name                     : &name "Wenhai Sun"
 description              : &description "Assistant Professor"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://wenhaisun.github.io"
+url                      : https://wenhaisun.github.io/ # the base hostname & protocol for your site e.g. "https://wenhaisun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Wenhai Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor @ Computer and Information Technology"
+  bio              : |
+                    "Assistant Professor @ Computer and Information Technology"
+                    "IEEE Senior Member, ACM Member"
   location         : "West Lafayette, IN US"
   employer         : "Purdue University"
   uri              : # URL
