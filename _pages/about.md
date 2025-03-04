@@ -18,6 +18,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 Recent News
 -----------
+
 **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.  
 **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
 **[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.  
@@ -25,8 +26,23 @@ Recent News
 **[Jul, 2024]** Our paper was accepted by RAID 2024!  
 **[Jul, 2024]** Our paper was accepted by IEEE Transactions on Dependable and Secure Computing!  
 **[June, 2024]** I received the Employee Recognition Award for Departmental Achievements.  
+**[June, 2024]** One paper was accepted by IEEE Transactions on Information Forensics and Security.  
+**[Apr, 2024]** I was invited to join the dinner with Present Chiang for prestigious external award recipients.  
+**[Apr, 2024]** I was invited to give a talk in CERIAS Security Symposium 2024.  
+**[Mar, 2024]** Our work on low-latency random number provider for BFT smart contracts has been accepted by DSN 2024. Congrats to Dr. Jinghui Liao!  
+**[Feb, 2024]** I received the departmental award for Outstanding Faculty in Discovery.  
 
-
+Honors and Awards
+-----------
+* Employee Recognition Award for Departmental Achievements, Department of CIT, 2024
+* Outstanding Faculty in Discovery, Department of CIT, 2024
+* IEEE Senior Member, 2023
+* Distinguished Member of IJCAI Technical Program Committee, 2023
+* NSF CAREER Award, 2023
+* Distinguished Member of IEEE INFOCOM Technical Program Committee, 2023
+* Best-in-Session Presentation Award, IEEE INFOCOM, 2018
+* Pratt Fellowship, Virginia Tech, 2017
+* Distinguished Paper Award in ACM ASIACCS 2013 (Acceptance rate 35/216=16%)
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
