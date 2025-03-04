@@ -11,11 +11,20 @@ Short Bio
 ----------
 I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. My research covers various topics with the focus on privacy-enhancing technologies, confidential computing, AI/ML security, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023.
 
+
+<!-- Choose one of the above methods based on your preference:
+
+For a subtle line break: Use two spaces or <br>.
+For a paragraph break: Use an empty line. -->
 Recent News
 -----------
-**[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.
-**[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!
-**[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.
+**[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.  
+**[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
+**[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.  
+**[Aug, 2024]** Our paper was accepted by IEEE Transactions on Service Computing!  
+**[Jul, 2024]** Our paper was accepted by RAID 2024!  
+**[Jul, 2024]** Our paper was accepted by IEEE Transactions on Dependable and Secure Computing!  
+**[June, 2024]** I received the Employee Recognition Award for Departmental Achievements.  
 
 
 <!-- A data-driven personal website
