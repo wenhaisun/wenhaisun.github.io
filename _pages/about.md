@@ -14,10 +14,7 @@ I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech
 Recent News
 -----------
 **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.
-
-
 **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!
-
 **[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.
 
 
