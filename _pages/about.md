@@ -43,27 +43,38 @@ Honors and Awards
 * Pratt Fellowship, Virginia Tech, 2017
 * Distinguished Paper Award in ACM ASIACCS 2013 (Acceptance rate 35/216=16%)
 
+
+## Selected Publications
+
 ## Recent Services
 
 ### Technical Program Committees
-ACM CODASPY 2024 and 2025, IJCAI 2023 and 2024, IEEE INFOCOM 2021 - 2025, IEEE CNS 2020 - 2025 (Area Chair in 2023), IEEE MILCOM 2024, ACM WiSec 2020, SecureComm 2019 and 2020, IEEE Blockchain 2019 - 2022.
+ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS (2020 - 2025, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
-* IEEE Transactions on Parallel and Distributed Systems, _Associate Editor_, 2025 -
+* Associate Editor, _IEEE Transactions on Parallel and Distributed Systems_, 2025 -
+* Associate Editor, _Journal of Surveillance, Security and Safety_, 2018 - 2021
 
 ### NSF Panelists
 * PDaSP 2025
 * STaC 2024, 2022, and 2019
 
-## Selected Publications
-
 ## Teaching 
+* CNIT 37000 Introduction to Cryptography
+* CNIT 64000 Advanced Research Topics in Blockchain Technology
+* CNIT 48101 Introduction to Blockchain Technology
 
 ## Students
-
 ### Current
+* Xiaolin Li, PhD Student, 2023.8 -
+* Dhairya Dhuvad, MS Student, 2024.8 -
 
-### Allumni
+### Alumni
+* Zhen Li, PhD, 2019 - 2024
+* Xiaoguang Li, Visting PhD Student, 2019 - 2021
+* Zelei Cheng, MS Student, 2019 - 2022
+* Hengkai Ye, MS Student, 2020 -2022
+
 
 
 <!-- A data-driven personal website
@@ -73,7 +84,7 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
  -->
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -104,4 +115,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
