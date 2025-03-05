@@ -94,12 +94,12 @@
   }
 
   img {
-    //max-width: 175px;
-    border-radius: 20px; //50%;
+    max-width: 175px;
+    border-radius: 50%;
     //border-radius: 15px; // Adjust the value for more/less rounding
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
+  //width: 180px;
+  //height: 180px;
+  //object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
