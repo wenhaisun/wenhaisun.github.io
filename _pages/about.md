@@ -18,6 +18,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
+**[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
 **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.  
 **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.  
 **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
@@ -85,6 +86,7 @@ Honors and Awards
 ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS (2020 - 2025, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
+* Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
 * Associate Editor, _IEEE Transactions on Dependable and Secure Computing_, 2025 -
 * Associate Editor, _Journal of Surveillance, Security and Safety_, 2018 - 2021
 
