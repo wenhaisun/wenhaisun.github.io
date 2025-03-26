@@ -101,14 +101,14 @@ ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS
 
 ## Students
 ### Current
-* Xiaolin Li, PhD Student, 2023.8 -
-* Dhairya Dhuvad, MS Student, 2024.8 -
+* Xiaolin Li, PhD student, 2023.8 -
+* Dhairya Dhuvad, MS student, 2024.8 -
 
 ### Alumni
 * Zhen Li, PhD, 2019 - 2024
 * Xiaoguang Li, Visiting PhD Student, 2019 - 2021
-* Zelei Cheng, MS Student, 2019 - 2022
-* Hengkai Ye, MS Student, 2020 -2022
+* Zelei Cheng, MS, 2019 - 2022
+* Hengkai Ye, MS, 2020 -2022
 
 
 <p>
