@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Short Bio
 ---------- -->
-I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. My research covers various topics with the focus on privacy-enhancing technologies, confidential computing, AI/ML security, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023.
+I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. My research covers various topics with the focus on privacy-enhancing technologies, confidential computing, AI/ML for privacy and security, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023.
 
 
 <!-- Choose one of the above methods based on your preference:
