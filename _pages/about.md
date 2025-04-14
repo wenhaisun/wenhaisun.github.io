@@ -18,8 +18,9 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
+**[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.     
 **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!  
-**[Mar, 2025]** I was invited to serve on the TPC for the 2026 IEEE Symposium on Security and Privacy (S&P).      
+**[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.      
 **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
 **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.  
 **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.  
@@ -85,7 +86,7 @@ Honors and Awards
 
 ## Recent Services
 ### Technical Program Committees
-IEEE S&P (2026), ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS (2020 - 2025, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
+IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS (2020 - 2025, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
 * Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
