@@ -11,7 +11,7 @@ redirect_from:
 ---------- -->
 I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. My research covers various topics with the focus on AI/ML for privacy and security, security of privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023.
 
-**[Opening]** I am looking for a self-motivated PhD student as TA/RA starting Fall 2025.
+**[<span class="custom-red">Opening.</span>]** I am looking for a self-motivated PhD student as TA/RA starting Fall 2025.
 
 
 <!-- Choose one of the above methods based on your preference:
