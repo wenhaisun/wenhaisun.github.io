@@ -20,6 +20,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
+**[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025.   
 **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.     
 **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!  
 **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.      
@@ -52,6 +53,7 @@ Honors and Awards
 
 
 ## Selected Publications
+* **[CCS'25]** Xiaolin Li, Ninghui Li, Boyang Wang and Wenhai Sun, _"Mitigating Data Poisoning Attacks to Local Differential Privacy,"_ The ACM Conference on Computer and Communications Security, 2025.    
 * **[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
 * **[NDSS'25]** Xiaoguang Li, Zitao Li, Ninghui Li and Wenhai Sun, _"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks,"_ The Network and Distributed System Security Symposium, 2025.  
 * **[TSC'24]** Xuefeng Liu, Zhe Feng, Le Wang, Wenhai Sun, Qingqi Pei, Xiaodong Lin, and Huizhong Li, _"Confidential Distributed Ledgers for Online Syndicated Lending,"_ IEEE Transactions on Service Computing, 2024.  
