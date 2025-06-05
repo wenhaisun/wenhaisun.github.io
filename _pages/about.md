@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Short Bio
 ---------- -->
-I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. My research covers various topics with the focus on AI/ML for privacy and security, security of privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023.
+I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. My research covers various topics with the focus on AI/ML for privacy and security, AI/ML privacy and security, privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023.
 
 **[<span style="color: #ff0000;">Opening</span>]** I am looking for a self-motivated PhD student as TA/RA starting Fall 2025.
 
@@ -20,7 +20,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
-**[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025.   
+**[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratualtions on your very first paper!  
 **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.     
 **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!  
 **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.      
