@@ -25,7 +25,7 @@ author:
   avatar           : "4.jpg"
   name             : "Wenhai Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor<br>School of Applied and Creative Computing<br>Faculty member affilicated with Purdue <a href=\"https://polytechnic.purdue.edu/aarc/\">AARC</a>, <a href=\"https://www.cerias.purdue.edu/\">CERIAS</a>, and <a href=\"https://engineering.purdue.edu/ICON/\">ICON</a><br>Associate Editor of IEEE TPDS and IEEE TIFS<br>Senior Member of IEEE, Member of ACM, AAAS and <a href=\"https://www.acsic.org/home\">ACSIC</a>"
+  bio              : "Associate Professor<br>School of Applied and Creative Computing<br>Faculty member affilicated with Purdue <a href=\"https://polytechnic.purdue.edu/aarc/\">AARC</a>, <a href=\"https://www.cerias.purdue.edu/\">CERIAS</a>, and <a href=\"https://engineering.purdue.edu/ICON/\">ICON</a><br>Associate Editor of IEEE TDSC and IEEE TIFS<br>Senior Member of IEEE, Member of ACM, AAAS and <a href=\"https://www.acsic.org/home\">ACSIC</a>"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
