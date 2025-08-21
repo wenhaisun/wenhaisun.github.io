@@ -109,7 +109,13 @@ IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024,2025), IJCAI (2023,2024), IEE
 ## Students
 ### Current
 * Xiaolin Li, PhD student, 2023.8 -
+* Weizheng Wang, PhD student, Co-advised with Dr. Byung-Cheol Min, 2025.5 -
 * Dhairya Dhuvad, MS student, 2024.8 -
+* MUATAZ AWAD, DTech student, 2023.8 -
+* Li Zhuang, DTech student, 2022.6 -
+
+
+
 
 ### Alumni
 * Zhen Li, PhD, 2019 - 2024
