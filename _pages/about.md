@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Short Bio
 ---------- -->
-I hold two Ph.D. degrees from the Department of Computer Science, [Virginia Tech](https://www.cnsr.ictas.vt.edu/) and from the School of Telecommunications Engineering, Xidian University, respectively. I studied security and privacy issues in broad networked systems, such as cloud, blockchain, and cyber-physical systems. I am currently focused on the security implications of adopting differential privacy in the real world. We are particularly interested in how privacy-enhancing technology may be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats by leveraging provable algorithm design and AI/ML. I am the recipient of NSF CAREER Award 2023.
+I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I studied security and privacy issues in broad networked systems, such as cloud, blockchain, and cyber-physical systems. I am currently focused on the security implications of adopting differential privacy in the real world. We are particularly interested in how privacy-enhancing technology may be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats by leveraging provable algorithm design and AI/ML. I am the recipient of NSF CAREER Award 2023.
 
 <!-- My research covers various topics with the focus on AI/ML for privacy and security, AI/ML privacy and security, privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023. -->
 
