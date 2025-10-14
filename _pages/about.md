@@ -22,10 +22,8 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
-
 **[Oct, 2025]** I will be serving on the TPC of ACM CCS 2026.
-
-**[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratualtions on your very first paper!  
+**[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratualtions on your very first paper! 
 **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.     
 <!-- **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!   -->
 **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.      
