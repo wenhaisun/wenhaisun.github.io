@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Short Bio
 ---------- -->
-I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and currently investigating how privacy-enhancing technology, such as differential privacy, may be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats without sacrificing privacy and utility by leveraging AI/ML and provable algorithm design.  I am the recipient of the NSF CAREER Award 2023.
+I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and currently investigate how privacy-enhancing technology, such as differential privacy, can be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats without sacrificing privacy and utility by leveraging AI/ML and provable algorithm design.  I am the recipient of the NSF CAREER Award 2023.
 
 <!-- My research covers various topics with the focus on AI/ML for privacy and security, AI/ML privacy and security, privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023. -->
 
