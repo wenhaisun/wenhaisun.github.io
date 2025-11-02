@@ -46,6 +46,7 @@ For a paragraph break: Use an empty line. -->
 
 Honors and Awards
 -----------
+* Univeristy Faculty Scholar, Purdue University, 2025
 * Employee Recognition Award for Departmental Achievements, Department of CIT, 2024
 * Outstanding Faculty in Discovery, Department of CIT, 2024
 * IEEE Senior Member, 2023
