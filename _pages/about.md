@@ -96,7 +96,7 @@ Honors and Awards
 
 ## Recent Services
 ### Technical Program Committees
-IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024,2025), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2025), IEEE CNS (2020 - 2025, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
+ACM CCS (2026), IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2026), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
 * Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
