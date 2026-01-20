@@ -117,7 +117,7 @@ ACM CCS (2026), IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI 
 * Xiaolin Li, PhD student, 2023.8 -
 * Weizheng Wang, PhD student, Co-advised with Dr. Byung-Cheol Min, 2025.5 -
 * Dhairya Dhuvad, MS student, 2024.8 -
-* MUATAZ AWAD (Microsoft), DTech student, 2023.8 -
+* Muataz Awad (Microsoft), DTech student, 2023.8 -
 * Li Zhuang (Zelostech), DTech student, 2022.6 -
 
 
