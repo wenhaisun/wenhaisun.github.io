@@ -22,6 +22,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
+**[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
 **[Nov, 2025]** I am selected as Purdue University Faculty Scholar.  
 **[Oct, 2025]** I will be serving on the TPC of ACM CODASPY 2026.  
 **[Oct, 2025]** I will be serving on the TPC of ACM CCS 2026.   
@@ -32,7 +33,7 @@ For a paragraph break: Use an empty line. -->
 **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
 **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.  
 **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.  
-**[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
+<!-- **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
 **[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.  
 **[Aug, 2024]** Our paper was accepted by IEEE Transactions on Service Computing!  
 **[Jul, 2024]** Our paper was accepted by RAID 2024!  
@@ -42,7 +43,7 @@ For a paragraph break: Use an empty line. -->
 **[Apr, 2024]** I was invited to join the dinner with Present Chiang for prestigious external award recipients.  
 **[Apr, 2024]** I was invited to give a talk in CERIAS Security Symposium 2024.  
 **[Mar, 2024]** Our work on low-latency random number provider for BFT smart contracts has been accepted by DSN 2024. Congrats to Dr. Jinghui Liao!  
-**[Feb, 2024]** I received the departmental award for Outstanding Faculty in Discovery.  
+**[Feb, 2024]** I received the departmental award for Outstanding Faculty in Discovery.   -->
 
 Honors and Awards
 -----------
@@ -59,6 +60,7 @@ Honors and Awards
 
 
 ## Selected Publications
+* **[ICRA'25]** Weizheng Wang, Baijian Yang, Sungeun Hong, Wenhai Sun, Byung-Cheol Min, _"Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction,"_ The IEEE International Conference on Robotics and Automation (ICRA), 2026.  
 * **[CCS'25]** Xiaolin Li, Ninghui Li, Boyang Wang and Wenhai Sun, _"Mitigating Data Poisoning Attacks to Local Differential Privacy,"_ The ACM Conference on Computer and Communications Security, 2025.    
 * **[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
 * **[NDSS'25]** Xiaoguang Li, Zitao Li, Ninghui Li and Wenhai Sun, _"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks,"_ The Network and Distributed System Security Symposium, 2025.  
@@ -117,8 +119,10 @@ ACM CCS (2026), IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI 
 * Xiaolin Li, PhD student, 2023.8 -
 * Weizheng Wang, PhD student, Co-advised with Dr. Byung-Cheol Min, 2025.5 -
 * Dhairya Dhuvad, MS student, 2024.8 -
-* Muataz Awad (Microsoft), DTech student, 2023.8 -
-* Li Zhuang (Zelostech), DTech student, 2022.6 -
+* Muataz Awad, DTech student, 2023.8 -
+* Li Zhuang, DTech student, 2022.6 -
+* Alexander Kent, DTech student, 2026.1 -
+* Eric Krueger, DTech student, 2026.1 -
 
 
 
