@@ -60,7 +60,7 @@ Honors and Awards
 
 
 ## Selected Publications
-* **[ICRA'25]** Weizheng Wang, Baijian Yang, Sungeun Hong, Wenhai Sun, and Byung-Cheol Min, _"Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction,"_ The IEEE International Conference on Robotics and Automation (ICRA), 2026.  
+* **[ICRA'26]** Weizheng Wang, Baijian Yang, Sungeun Hong, Wenhai Sun, and Byung-Cheol Min, _"Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction,"_ The IEEE International Conference on Robotics and Automation (ICRA), 2026.  
 * **[CCS'25]** Xiaolin Li, Ninghui Li, Boyang Wang and Wenhai Sun, _"Mitigating Data Poisoning Attacks to Local Differential Privacy,"_ The ACM Conference on Computer and Communications Security, 2025.    
 * **[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
 * **[NDSS'25]** Xiaoguang Li, Zitao Li, Ninghui Li and Wenhai Sun, _"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks,"_ The Network and Distributed System Security Symposium, 2025.  
