@@ -22,6 +22,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News  
+**[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.  
 **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
 **[Nov, 2025]** I am selected as Purdue University Faculty Scholar.  
 **[Oct, 2025]** I will be serving on the TPC of ACM CODASPY 2026.  
@@ -98,7 +99,7 @@ Honors and Awards
 
 ## Recent Services
 ### Technical Program Committees
-ACM CCS (2026), IEEE S&P (2026), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2026), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
+ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
 * Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
