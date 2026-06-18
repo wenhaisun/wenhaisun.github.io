@@ -22,6 +22,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News
+**[June, 2026]** I was invited to serve the TPC of USENIX Security 2027. 
 **[June, 2026]** We published a preprint about the backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
 **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.  
 **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
@@ -100,7 +101,7 @@ Honors and Awards
 
 ## Recent Services
 ### Technical Program Committees
-ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
+USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
 * Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
