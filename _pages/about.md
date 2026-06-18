@@ -22,7 +22,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News
-**[June, 2026]** I was invited to serve the TPC of USENIX Security 2027. 
+**[June, 2026]** I was invited to serve the TPC of USENIX Security 2027.   
 **[June, 2026]** We published a preprint about the backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
 **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.  
 **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
