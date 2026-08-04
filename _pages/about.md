@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Short Bio
 ---------- -->
-I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and currently investigate how privacy-enhancing technology, such as differential privacy, can be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats without sacrificing privacy and utility by leveraging AI/ML and provable algorithm design. I am the recipient of the NSF CAREER Award 2023 and Univeristy Faculty Scholar.
+I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and currently investigate how privacy-enhancing technology can be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats without sacrificing privacy and utility by leveraging AI/ML and provable algorithm design. I am the recipient of the NSF CAREER Award and Univeristy Faculty Scholar.
 
 <!-- My research covers various topics with the focus on AI/ML for privacy and security, AI/ML privacy and security, privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023. -->
 
@@ -22,7 +22,8 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News
-**[June, 2026]** I was invited to serve the TPC of USENIX Security 2027.   
+**[June, 2026]** I accepted a courtesy appointment at Purdue CS.   
+**[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.   
 **[June, 2026]** We published a preprint about the backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
 **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.  
 **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
@@ -33,9 +34,9 @@ For a paragraph break: Use an empty line. -->
 **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.   
 <!-- **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!   -->
 **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.      
-**[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
+<!-- **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
 **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.  
-**[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.  
+**[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.   -->
 <!-- **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
 **[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.  
 **[Aug, 2024]** Our paper was accepted by IEEE Transactions on Service Computing!  
@@ -119,8 +120,8 @@ USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), A
 
 ## Students
 ### Current
+* Sampad Sikder, PhD student, 2026.8 -
 * Xiaolin Li, PhD student, 2023.8 -
-* Weizheng Wang, PhD student, Co-advised with Dr. Byung-Cheol Min, 2025.5 -
 * Dhairya Dhuvad, MS student, 2024.8 -
 * Li Zhuang, DTech student, 2022.6 -
 * Alexander Kent, DTech student, 2026.1 -
@@ -130,6 +131,7 @@ USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), A
 
 ### Alumni
 * Muataz Awad (Microsoft), Doctor of Technology, 2023 - 2026
+* Weizheng Wang, PhD student, Co-advised with Dr. Byung-Cheol Min, 2025 - 2026
 * Zhen Li, PhD, 2019 - 2024
 * Xiaoguang Li, Visiting PhD Student, 2019 - 2021
 * Zelei Cheng, MS, 2019 - 2022
