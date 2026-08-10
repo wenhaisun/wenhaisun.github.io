@@ -24,7 +24,7 @@ For a paragraph break: Use an empty line. -->
 ## Recent News
 **[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.   
 **[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.   
-**[June, 2026]** We published a preprint about the backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
+**[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
 **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.  
 **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
 **[Nov, 2025]** I am selected as Purdue University Faculty Scholar.  
