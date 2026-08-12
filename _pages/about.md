@@ -22,6 +22,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News
+**[June, 2026]** I was invited to serve on NDSS 2027.  
 **[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.   
 **[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.   
 **[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
@@ -100,9 +101,9 @@ Honors and Awards
 * **[INFOCOM'14]** Wenhai Sun, Shucheng Yu, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Protecting Your Right: Attribute-based Keyword Search with Fine-grained Owner-enforced Search Authorization in the Cloud,"_ IEEE International Conference on Computer Communications, 2014.  
 * **[AsiaCCS'13]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ The 8th ACM Symposium on Information, Computer and Communications Security, 2013. (Distinguished Paper Award).
 
-## Recent Services
+## Services
 ### Technical Program Committees
-USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
+NDSS (2027), USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
 ### Editorial Boards
 * Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
