@@ -5,6 +5,11 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  scroll-padding-top: calc(#{$masthead-height} + 1px);
+
+  @media (prefers-reduced-motion: no-preference) {
+    scroll-behavior: smooth;
+  }
 }
 
 body {

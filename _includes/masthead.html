@@ -13,7 +13,12 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% if link.url contains '/#' and page.url == '/' %}
+              {% assign nav_url = link.url | remove_first: '/' %}
+            {% else %}
+              {% assign nav_url = domain | append: link.url %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ nav_url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         {% if site.data.navigation.main.size > 0 %}<ul class="hidden-links hidden"></ul>{% endif %}

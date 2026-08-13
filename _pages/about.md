@@ -26,6 +26,7 @@ redirect_from:
 <!-- Short Bio
 ---------- -->
 I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI/ML, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and currently investigate how privacy-enhancing technology can be abused to cause unexpected harm to the underlying applications, systems, and participants, and how to mitigate these emerging threats without sacrificing privacy and utility by leveraging AI/ML and provable algorithm design. I am the recipient of the NSF CAREER Award and University Faculty Scholar.
+{: #about}
 
 <!-- My research covers various topics with the focus on AI/ML for privacy and security, AI/ML privacy and security, privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023. -->
 
@@ -38,6 +39,7 @@ For a subtle line break: Use two spaces or <br>.
 For a paragraph break: Use an empty line. -->
 
 ## Recent News
+{: #news}
 **[Aug, 2026]** I joined the PC of NDSS 2027.     
 **[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.   
 **[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.   
@@ -81,6 +83,7 @@ Honors and Awards
 
 
 ## Selected Publications
+{: #publications}
 * **[ICRA'26]** Weizheng Wang, Baijian Yang, Sungeun Hong, Wenhai Sun, and Byung-Cheol Min, _"Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction,"_ The IEEE International Conference on Robotics and Automation (ICRA), 2026.  
 * **[CCS'25]** Xiaolin Li, Ninghui Li, Boyang Wang and Wenhai Sun, _"Mitigating Data Poisoning Attacks to Local Differential Privacy,"_ The ACM Conference on Computer and Communications Security, 2025.    
 * **[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
@@ -118,6 +121,7 @@ Honors and Awards
 * **[AsiaCCS'13]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ The 8th ACM Symposium on Information, Computer and Communications Security, 2013. (Distinguished Paper Award).
 
 ## Services
+{: #service}
 ### Technical Program Committees
 NDSS (2027), USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
 
@@ -131,11 +135,13 @@ NDSS (2027), USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESOR
 * STaC 2024, 2022, and 2019
 
 ## Teaching 
+{: #teaching}
 * CNIT 37000 Introduction to Cryptography
 * CNIT 64000 Advanced Research Topics in Blockchain Technology
 * CNIT 48101 Introduction to Blockchain Technology
 
 ## Students
+{: #students}
 ### Current
 * Sampad Sikder, PhD student, 2026.8 -
 * Aanand Balasubramanian, PhD student, 2026.8 -
