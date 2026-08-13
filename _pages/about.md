@@ -138,6 +138,7 @@ NDSS (2027), USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESOR
 ## Students
 ### Current
 * Sampad Sikder, PhD student, 2026.8 -
+* Aanand Balasubramanian, PhD student, 2026.8 -
 * Xiaolin Li, PhD student, 2023.8 -
 * Dhairya Dhuvad, MS student, 2024.8 -
 * Li Zhuang, DTech student, 2022.6 -
