@@ -1,8 +1,5 @@
-Contributions are welcome! 
+# Contributing
 
-Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+This repository powers [whsun.org](https://whsun.org). Changes are reviewed locally, previewed as a Jekyll build, and published through GitHub Desktop.
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
-
+Keep the homepage content in `_pages/about.md`, preserve the custom domain in `CNAME`, and verify the generated site before pushing changes.
