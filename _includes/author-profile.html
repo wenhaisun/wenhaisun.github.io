@@ -17,9 +17,9 @@
 
       <div class="author-profile__mobile-avatar">
         {% if author.avatar contains "://" %}
-          <img src="{{ author.avatar }}" alt="Portrait of {{ author.name }}">
+          <img src="{{ author.avatar }}" alt="Portrait of {{ author.name }}" fetchpriority="high" decoding="async">
         {% else %}
-          <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="Portrait of {{ author.name }}">
+          <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="Portrait of {{ author.name }}" width="720" height="696" fetchpriority="high" decoding="async">
         {% endif %}
       </div>
     </div>
@@ -51,9 +51,9 @@
 
   <div class="author__avatar author-profile__desktop">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" decoding="async">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" width="720" height="696" fetchpriority="high" decoding="async">
     {% endif %}
   </div>
 
@@ -79,7 +79,7 @@
 
       <section class="author-profile__desktop-group">
         <h4 class="author-profile__desktop-label">Editorial &amp; Memberships</h4>
-        <p class="author-profile__desktop-line author-profile__desktop-line--emphasis">Associate Editor, IEEE TIFS and TDSC</p>
+        <p class="author-profile__desktop-line">Associate Editor, IEEE TIFS and TDSC</p>
         <p class="author-profile__desktop-line">IEEE Senior Member</p>
         <p class="author-profile__desktop-line">Member of ACM, AAAS, and <a href="https://www.acsic.org/home">ACSIC</a></p>
       </section>

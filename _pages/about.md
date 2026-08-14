@@ -75,20 +75,22 @@ For a paragraph break: Use an empty line. -->
 
 Honors and Awards
 -----------
-* University Faculty Scholar, Purdue University, 2025
-* Employee Recognition Award for Departmental Achievements, Department of CIT, 2024
-* Outstanding Faculty in Discovery, Department of CIT, 2024
-* IEEE Senior Member, 2023
-* Distinguished Member of IJCAI Technical Program Committee, 2023
-* NSF CAREER Award, 2023
-* Distinguished Member of IEEE INFOCOM Technical Program Committee, 2023
-* Best-in-Session Presentation Award, IEEE INFOCOM, 2018
-* Pratt Fellowship, Virginia Tech, 2017
-* Distinguished Paper Award in ACM ASIACCS 2013 (Acceptance rate 35/216=16%)
-
+<ul class="awards-list">
+  <li><div><span class="award-entry__title">University Faculty Scholar</span><span class="award-entry__meta">Purdue University</span></div><time class="award-entry__year" datetime="2025">2025</time></li>
+  <li><div><span class="award-entry__title">Employee Recognition Award for Departmental Achievements</span><span class="award-entry__meta">Department of CIT</span></div><time class="award-entry__year" datetime="2024">2024</time></li>
+  <li><div><span class="award-entry__title">Outstanding Faculty in Discovery</span><span class="award-entry__meta">Department of CIT</span></div><time class="award-entry__year" datetime="2024">2024</time></li>
+  <li><div><span class="award-entry__title">IEEE Senior Member</span></div><time class="award-entry__year" datetime="2023">2023</time></li>
+  <li><div><span class="award-entry__title">Distinguished Member of IJCAI Technical Program Committee</span></div><time class="award-entry__year" datetime="2023">2023</time></li>
+  <li><div><span class="award-entry__title">NSF CAREER Award</span></div><time class="award-entry__year" datetime="2023">2023</time></li>
+  <li><div><span class="award-entry__title">Distinguished Member of IEEE INFOCOM Technical Program Committee</span></div><time class="award-entry__year" datetime="2023">2023</time></li>
+  <li><div><span class="award-entry__title">Best-in-Session Presentation Award</span><span class="award-entry__meta">IEEE INFOCOM</span></div><time class="award-entry__year" datetime="2018">2018</time></li>
+  <li><div><span class="award-entry__title">Pratt Fellowship</span><span class="award-entry__meta">Virginia Tech</span></div><time class="award-entry__year" datetime="2017">2017</time></li>
+  <li><div><span class="award-entry__title">Distinguished Paper Award in ACM ASIACCS</span><span class="award-entry__meta">Acceptance rate 35/216=16%</span></div><time class="award-entry__year" datetime="2013">2013</time></li>
+</ul>
 
 ## Selected Publications
 {: #publications}
+* **[Arxiv'26]** Xiaolin Li, Ning Wang, Ninghui Li, and Wenhai Sun, _["Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning,"](https://arxiv.org/abs/2606.17035)_ arXiv preprint, 2026.
 * **[ICRA'26]** Weizheng Wang, Baijian Yang, Sungeun Hong, Wenhai Sun, and Byung-Cheol Min, _"Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction,"_ The IEEE International Conference on Robotics and Automation (ICRA), 2026.  
 * **[CCS'25]** Xiaolin Li, Ninghui Li, Boyang Wang and Wenhai Sun, _"Mitigating Data Poisoning Attacks to Local Differential Privacy,"_ The ACM Conference on Computer and Communications Security, 2025.    
 * **[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
@@ -133,40 +135,69 @@ Honors and Awards
 ## Services
 {: #service}
 ### Technical Program Committees
-NDSS (2027), USENIX Security (2027), ACM CCS (2026), IEEE S&P (2026, 2027), ESORICS (2025), ACM CODASPY (2024-2026), IJCAI (2023,2024), IEEE INFOCOM (2021 - 2027), IEEE CNS (2020 - 2026, area chair in 2023), IEEE MILCOM (2024), ACM WiSec (2020), SecureComm (2019,2020), IEEE Blockchain (2019 - 2022)
+{: .service-subheading}
+<ul class="service-rows service-rows--committees">
+  <li><span class="service-entry__name">NDSS</span><span class="service-entry__date">2027</span></li>
+  <li><span class="service-entry__name">USENIX Security</span><span class="service-entry__date">2027</span></li>
+  <li><span class="service-entry__name">ACM CCS</span><span class="service-entry__date">2026</span></li>
+  <li><span class="service-entry__name">IEEE S&amp;P</span><span class="service-entry__date">2026, 2027</span></li>
+  <li><span class="service-entry__name">ESORICS</span><span class="service-entry__date">2025</span></li>
+  <li><span class="service-entry__name">ACM CODASPY</span><span class="service-entry__date">2024–2026</span></li>
+  <li><span class="service-entry__name">IJCAI</span><span class="service-entry__date">2023, 2024</span></li>
+  <li><span class="service-entry__name">IEEE INFOCOM</span><span class="service-entry__date">2021–2027</span></li>
+  <li><div><span class="service-entry__name">IEEE CNS</span><span class="service-entry__note">Area Chair in 2023</span></div><span class="service-entry__date">2020–2026</span></li>
+  <li><span class="service-entry__name">IEEE MILCOM</span><span class="service-entry__date">2024</span></li>
+  <li><span class="service-entry__name">ACM WiSec</span><span class="service-entry__date">2020</span></li>
+  <li><span class="service-entry__name">SecureComm</span><span class="service-entry__date">2019, 2020</span></li>
+  <li><span class="service-entry__name">IEEE Blockchain</span><span class="service-entry__date">2019–2022</span></li>
+</ul>
 
 ### Editorial Boards
-* Associate Editor, _IEEE Transactions on Information Forensics and Security_, 2025 -
-* Associate Editor, _IEEE Transactions on Dependable and Secure Computing_, 2025 -
-* Associate Editor, _Journal of Surveillance, Security and Safety_, 2018 - 2021
+{: .service-subheading}
+<ul class="service-rows">
+  <li><div><span class="service-entry__name">IEEE Transactions on Information Forensics and Security</span><span class="service-entry__note">Associate Editor</span></div><span class="service-entry__date">2025–</span></li>
+  <li><div><span class="service-entry__name">IEEE Transactions on Dependable and Secure Computing</span><span class="service-entry__note">Associate Editor</span></div><span class="service-entry__date">2025–</span></li>
+  <li><div><span class="service-entry__name">Journal of Surveillance, Security and Safety</span><span class="service-entry__note">Associate Editor</span></div><span class="service-entry__date">2018–2021</span></li>
+</ul>
 
 ### NSF Panelists
-* PDaSP 2025
-* STaC 2024, 2022, and 2019
+{: .service-subheading}
+<ul class="service-rows">
+  <li><span class="service-entry__name">PDaSP</span><span class="service-entry__date">2025</span></li>
+  <li><span class="service-entry__name">STaC</span><span class="service-entry__date">2024, 2022, 2019</span></li>
+</ul>
 
 ## Teaching 
 {: #teaching}
 * CNIT 37000 Introduction to Cryptography
 * CNIT 64000 Advanced Research Topics in Blockchain Technology
-* CNIT 48101 Introduction to Blockchain Technology
+* CNIT 47700 Introduction to Blockchain Technology
 
 ## Students
 {: #students}
-### Current
-* Sampad Sikder, PhD student, 2026.8 -
-* Aanand Balasubramanian, PhD student, 2026.8 -
-* Xiaolin Li, PhD student, 2023.8 -
-* Dhairya Dhuvad, MS student, 2024.8 -
-* Li Zhuang, DTech student, 2022.6 -
-* Alexander Kent, DTech student, 2026.1 -
-* Eric Krueger, DTech student, 2026.1 -
+<div class="student-groups">
+  <section class="student-group student-group--current" aria-labelledby="current-students-heading">
+    <h3 id="current-students-heading" class="student-group__heading">Current students <span class="student-group__count">7 students</span></h3>
+    <ul class="student-list">
+      <li><div><span class="student-entry__name">Sampad Sikder</span><span class="student-entry__detail">PhD student</span></div><span class="student-entry__date">2026.8–</span></li>
+      <li><div><span class="student-entry__name">Aanand Balasubramanian</span><span class="student-entry__detail">PhD student</span></div><span class="student-entry__date">2026.8–</span></li>
+      <li><div><span class="student-entry__name">Xiaolin Li</span><span class="student-entry__detail">PhD student</span></div><span class="student-entry__date">2023.8–</span></li>
+      <li><div><span class="student-entry__name">Dhairya Dhuvad</span><span class="student-entry__detail">MS student</span></div><span class="student-entry__date">2024.8–</span></li>
+      <li><div><span class="student-entry__name">Li Zhuang</span><span class="student-entry__detail">DTech student</span></div><span class="student-entry__date">2022.6–</span></li>
+      <li><div><span class="student-entry__name">Alexander Kent</span><span class="student-entry__detail">DTech student</span></div><span class="student-entry__date">2026.1–</span></li>
+      <li><div><span class="student-entry__name">Eric Krueger</span><span class="student-entry__detail">DTech student</span></div><span class="student-entry__date">2026.1–</span></li>
+    </ul>
+  </section>
 
-
-
-### Alumni
-* Muataz Awad (Microsoft), Doctor of Technology, 2023 - 2026
-* Weizheng Wang, PhD student, Co-advised with Dr. Byung-Cheol Min, 2025 - 2026
-* Zhen Li, PhD, 2019 - 2024
-* Xiaoguang Li, Visiting PhD Student, 2019 - 2021
-* Zelei Cheng, MS, 2019 - 2022
-* Hengkai Ye, MS, 2020 - 2022
+  <section class="student-group student-group--alumni" aria-labelledby="alumni-heading">
+    <h3 id="alumni-heading" class="student-group__heading">Alumni <span class="student-group__count">6 alumni</span></h3>
+    <ul class="student-list">
+      <li><div><span class="student-entry__name">Muataz Awad (Microsoft)</span><span class="student-entry__detail">Doctor of Technology</span></div><span class="student-entry__date">2023–2026</span></li>
+      <li><div><span class="student-entry__name">Weizheng Wang</span><span class="student-entry__detail">PhD student, Co-advised with Dr. Byung-Cheol Min</span></div><span class="student-entry__date">2025–2026</span></li>
+      <li><div><span class="student-entry__name">Zhen Li</span><span class="student-entry__detail">PhD</span></div><span class="student-entry__date">2019–2024</span></li>
+      <li><div><span class="student-entry__name">Xiaoguang Li</span><span class="student-entry__detail">Visiting PhD Student</span></div><span class="student-entry__date">2019–2021</span></li>
+      <li><div><span class="student-entry__name">Zelei Cheng</span><span class="student-entry__detail">MS</span></div><span class="student-entry__date">2019–2022</span></li>
+      <li><div><span class="student-entry__name">Hengkai Ye</span><span class="student-entry__detail">MS</span></div><span class="student-entry__date">2020–2022</span></li>
+    </ul>
+  </section>
+</div>

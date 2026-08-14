@@ -53,6 +53,7 @@
       .replace(/[,\"”]+$/, '');
     var authors = textBetween(venueElement, titleElement);
     var source = textAfter(titleElement);
+    var originalTitleLink = titleElement.querySelector('a');
 
     var header = document.createElement('div');
     header.className = 'publication-entry__header';
@@ -63,7 +64,15 @@
 
     var titleNode = document.createElement('span');
     titleNode.className = 'publication-entry__title';
-    titleNode.textContent = title;
+
+    if (originalTitleLink) {
+      var titleLink = document.createElement('a');
+      titleLink.href = originalTitleLink.href;
+      titleLink.textContent = title;
+      titleNode.appendChild(titleLink);
+    } else {
+      titleNode.textContent = title;
+    }
 
     var authorsNode = document.createElement('div');
     authorsNode.className = 'publication-entry__authors';

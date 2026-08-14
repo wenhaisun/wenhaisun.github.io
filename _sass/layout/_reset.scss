@@ -76,6 +76,22 @@ a:focus {
   @extend %tab-focus;
 }
 
+a:focus-visible,
+button:focus-visible,
+[tabindex]:focus-visible {
+  @extend %tab-focus;
+}
+
+@media (forced-colors: active) {
+  a:focus,
+  a:focus-visible,
+  button:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 3px solid CanvasText;
+    box-shadow: none;
+  }
+}
+
 /* Remove outline from links */
 
 a:hover,

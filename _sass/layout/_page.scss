@@ -304,6 +304,170 @@
     line-height: 1.45;
   }
 
+  .publication-entry__title a {
+    color: inherit;
+    text-decoration-color: var(--global-border-color);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+
+    &:hover {
+      color: var(--global-link-color-hover);
+      text-decoration-color: currentColor;
+    }
+  }
+
+  .awards-list,
+  .service-rows,
+  .student-list {
+    margin: 0.65rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .awards-list > li {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: baseline;
+    margin: 0;
+    padding: 0.62rem 0;
+    border-bottom: 1px solid var(--global-border-color);
+
+    &:first-child {
+      padding-top: 0.25rem;
+    }
+  }
+
+  .award-entry__title {
+    color: var(--global-text-color);
+    font-size: 0.96rem;
+    line-height: 1.42;
+  }
+
+  .award-entry__meta {
+    display: block;
+    margin-top: 0.08rem;
+    color: var(--global-base-color);
+    font-size: 0.84rem;
+    line-height: 1.4;
+  }
+
+  .award-entry__year,
+  .service-entry__date,
+  .student-entry__date {
+    color: #765f2f;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+
+  .page__content > h3.service-subheading,
+  .student-group__heading {
+    margin: 1.4rem 0 0.45rem;
+    color: var(--global-text-color);
+    font-family: $global-font-family;
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1.3;
+    letter-spacing: 0.055em;
+    text-transform: uppercase;
+  }
+
+  .service-rows--committees {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 2.2rem;
+    row-gap: 0;
+  }
+
+  .service-rows > li {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.8rem;
+    align-items: baseline;
+    margin: 0;
+    padding: 0.48rem 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  .service-entry__name,
+  .student-entry__name {
+    color: var(--global-text-color);
+    font-size: 0.93rem;
+    line-height: 1.42;
+  }
+
+  .service-entry__note,
+  .student-entry__detail {
+    display: block;
+    margin-top: 0.06rem;
+    color: var(--global-base-color);
+    font-size: 0.82rem;
+    line-height: 1.4;
+  }
+
+  .student-groups {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 2.4rem;
+    margin-top: 0.35rem;
+  }
+
+  .student-group__heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-top: 0;
+    padding-bottom: 0.45rem;
+    border-bottom: 2px solid #c8b783;
+  }
+
+  .student-group__count {
+    color: var(--global-base-color);
+    font-size: 0.72rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+
+  .student-list {
+    margin-top: 0;
+
+    > li {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.65rem;
+      align-items: baseline;
+      margin: 0;
+      padding: 0.62rem 0;
+      border-bottom: 1px solid var(--global-border-color);
+    }
+  }
+
+  @include breakpoint(max-width $medium) {
+    .awards-list > li,
+    .service-rows > li,
+    .student-list > li {
+      gap: 0.55rem;
+    }
+
+    .service-rows--committees,
+    .student-groups {
+      grid-template-columns: 1fr;
+    }
+
+    .student-groups {
+      gap: 1.6rem;
+    }
+
+    .award-entry__title,
+    .service-entry__name,
+    .student-entry__name {
+      font-size: 0.92rem;
+    }
+  }
+
   @include breakpoint(max-width $small) {
     .page__content {
       font-size: 1rem;
