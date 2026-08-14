@@ -51,28 +51,27 @@ For a paragraph break: Use an empty line. -->
 - **[Oct, 2025]** I will be serving on the TPC of ACM CCS 2026.
 - **[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratulations on your very first paper!
 - **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.
+- **[Apr, 2025]** I have been promoted to Associate Professor with tenure starting Fall 2025!
 - **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.
+- **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.
+- **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.
+- **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.
+- **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!
+- **[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.
+- **[Aug, 2024]** Our paper was accepted by IEEE Transactions on Service Computing!
+- **[Jul, 2024]** Our paper was accepted by RAID 2024!
+- **[Jul, 2024]** Our paper was accepted by IEEE Transactions on Dependable and Secure Computing!
+- **[June, 2024]** I received the Employee Recognition Award for Departmental Achievements.
+- **[June, 2024]** One paper was accepted by IEEE Transactions on Information Forensics and Security.
+- **[Apr, 2024]** I was invited to join the dinner with President Chiang for prestigious external award recipients.
+- **[Apr, 2024]** I was invited to give a talk in CERIAS Security Symposium 2024.
+- **[Mar, 2024]** Our work on low-latency random number provider for BFT smart contracts has been accepted by DSN 2024. Congrats to Dr. Jinghui Liao!
+- **[Feb, 2024]** I received the departmental award for Outstanding Faculty in Discovery.
 {: #recent-news-list .news-list data-news-list="true"}
 
 <div class="news-toggle-wrap" data-news-toggle-wrap="true" hidden>
 <button type="button" id="news-toggle" class="news-toggle" data-news-toggle="true" aria-controls="recent-news-list" aria-expanded="false" hidden>Show earlier news</button>
 </div>
-
-<!-- **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!   -->
-<!-- **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
-**[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.  
-**[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.   -->
-<!-- **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!  
-**[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.  
-**[Aug, 2024]** Our paper was accepted by IEEE Transactions on Service Computing!  
-**[Jul, 2024]** Our paper was accepted by RAID 2024!  
-**[Jul, 2024]** Our paper was accepted by IEEE Transactions on Dependable and Secure Computing!  
-**[June, 2024]** I received the Employee Recognition Award for Departmental Achievements.  
-**[June, 2024]** One paper was accepted by IEEE Transactions on Information Forensics and Security.  
-**[Apr, 2024]** I was invited to join the dinner with Present Chiang for prestigious external award recipients.  
-**[Apr, 2024]** I was invited to give a talk in CERIAS Security Symposium 2024.  
-**[Mar, 2024]** Our work on low-latency random number provider for BFT smart contracts has been accepted by DSN 2024. Congrats to Dr. Jinghui Liao!  
-**[Feb, 2024]** I received the departmental award for Outstanding Faculty in Discovery.   -->
 
 Honors and Awards
 -----------
