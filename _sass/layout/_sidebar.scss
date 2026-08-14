@@ -432,4 +432,108 @@
   .sidebar .author__urls-wrapper.author-profile__desktop {
     display: block;
   }
+
+  .sidebar .author__name {
+    margin: 0.8rem 0 0.65rem;
+    font-size: 1.08rem;
+  }
+
+  .author-profile__desktop-groups {
+    margin-top: 0;
+  }
+
+  .author-profile__desktop-group {
+    margin-top: 0.85rem;
+    padding-top: 0.72rem;
+    border-top: 1px solid var(--global-border-color);
+
+    &:first-of-type {
+      margin-top: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+  }
+
+  .author-profile__desktop-contact {
+    margin-top: 0.85rem;
+    padding-top: 0.72rem;
+    border-top: 1px solid var(--global-border-color);
+  }
+
+  .author-profile__desktop-label {
+    margin: 0 0 0.38rem;
+    color: #765f2f;
+    font-size: 0.66rem;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .sidebar .author-profile__desktop-line {
+    margin: 0;
+    color: var(--global-base-color);
+    font-size: 0.78rem;
+    line-height: 1.43;
+
+    + .author-profile__desktop-line {
+      margin-top: 0.18rem;
+    }
+
+    a {
+      color: var(--global-link-color);
+    }
+  }
+
+  .sidebar .author-profile__desktop-line--primary {
+    color: var(--global-text-color);
+    font-size: 0.84rem;
+    font-weight: 700;
+  }
+
+  .sidebar .author-profile__desktop-line--emphasis {
+    color: var(--global-text-color);
+  }
+
+  .author-profile__desktop-meta-list {
+    margin-bottom: 0.3rem;
+  }
+
+  .author-profile__desktop-meta,
+  .author-profile__desktop-links a {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.42rem;
+    margin: 0;
+    padding: 0.18rem 0;
+    color: var(--global-text-color);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    text-decoration: none;
+  }
+
+  .author-profile__desktop-links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+      white-space: normal;
+    }
+
+    a:hover {
+      color: var(--global-link-color-hover);
+      text-decoration: underline;
+    }
+  }
+
+  .author-profile__desktop-meta i,
+  .author-profile__desktop-links i {
+    flex: 0 0 0.9rem;
+    width: 0.9rem;
+    margin-top: 0.13rem;
+    color: var(--global-base-color);
+    text-align: center;
+  }
 }
