@@ -48,8 +48,9 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
-  <meta property="og:description" name="description" content="{{ seo_description }}">
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
+  <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
 {% if site.twitter.username %}
@@ -87,11 +88,15 @@
   <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif site.og_image %}
+  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
 {% endif %}
 
 {% if page.date %}
   <meta property="og:type" content="article">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{% else %}
+  <meta property="og:type" content="website">
 {% endif %}
 
 {% if paginator.previous_page %}
@@ -104,10 +109,11 @@
 {% if site.og_image %}
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
-      "@type": "Organization",
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": {{ site.title | jsonify }},
       "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
+      "image": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
     }
   </script>
 {% endif %}
@@ -115,11 +121,19 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "@context": "https://schema.org",
+      "@type": {{ site.social.type | default: "Person" | jsonify }},
+      "name": {{ site.social.name | default: site.name | jsonify }},
+      "url": {{ seo_url | jsonify }},
+      "image": {{ site.social.image | prepend: base_path | jsonify }},
+      "jobTitle": {{ site.social.job_title | jsonify }},
+      "affiliation": {
+        "@type": "Organization",
+        "name": {{ site.social.affiliation.name | jsonify }},
+        "url": {{ site.social.affiliation.url | jsonify }}
+      },
+      "knowsAbout": {{ site.social.knows_about | jsonify }},
+      "sameAs": {{ site.social.links | jsonify }}
     }
   </script>
 {% endif %}

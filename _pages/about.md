@@ -47,34 +47,35 @@ For a paragraph break: Use an empty line. -->
 
 ## Recent News
 {: #news}
-- **[Aug, 2026]** I joined the PC of NDSS 2027.
-- **[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.
-- **[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.
-- **[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arXiv](https://arxiv.org/abs/2606.17035).
-- **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.
-- **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.
-- **[Nov, 2025]** I am selected as Purdue University Faculty Scholar.
-- **[Oct, 2025]** I will be serving on the TPC of ACM CODASPY 2026.
-- **[Oct, 2025]** I will be serving on the TPC of ACM CCS 2026.
-- **[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratulations on your very first paper!
-- **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.
-- **[Apr, 2025]** I have been promoted to Associate Professor with tenure starting Fall 2025!
-- **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.
-- **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.
-- **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.
-- **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.
-- **[Oct, 2024]** Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!
-- **[Oct, 2024]** I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.
-- **[Aug, 2024]** Our paper was accepted by IEEE Transactions on Service Computing!
-- **[Jul, 2024]** Our paper was accepted by RAID 2024!
-- **[Jul, 2024]** Our paper was accepted by IEEE Transactions on Dependable and Secure Computing!
-- **[June, 2024]** I received the Employee Recognition Award for Departmental Achievements.
-- **[June, 2024]** One paper was accepted by IEEE Transactions on Information Forensics and Security.
-- **[Apr, 2024]** I was invited to join the dinner with President Chiang for prestigious external award recipients.
-- **[Apr, 2024]** I was invited to give a talk in CERIAS Security Symposium 2024.
-- **[Mar, 2024]** Our work on low-latency random number provider for BFT smart contracts has been accepted by DSN 2024. Congrats to Dr. Jinghui Liao!
-- **[Feb, 2024]** I received the departmental award for Outstanding Faculty in Discovery.
-{: #recent-news-list .news-list data-news-list="true"}
+<ul id="recent-news-list" class="news-list" data-news-list="true">
+  <li><time class="news-date" datetime="2026-08">Aug 2026</time><span class="news-category">Service</span><span class="news-summary">I joined the PC of NDSS 2027.</span></li>
+  <li><time class="news-date" datetime="2026-08">Aug 2026</time><span class="news-category">Appointment</span><span class="news-summary">I accepted a courtesy appointment at Purdue CS.</span></li>
+  <li><time class="news-date" datetime="2026-06">Jun 2026</time><span class="news-category">Service</span><span class="news-summary">I was invited to serve on the TPC of USENIX Security 2027.</span></li>
+  <li><time class="news-date" datetime="2026-06">Jun 2026</time><span class="news-category">Publication</span><span class="news-summary">We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at <a href="https://arxiv.org/abs/2606.17035">arXiv</a>.</span></li>
+  <li><time class="news-date" datetime="2026-03">Mar 2026</time><span class="news-category">Service</span><span class="news-summary">I was invited to serve on the TPC of IEEE S&amp;P 2027 and IEEE INFOCOM 2027.</span></li>
+  <li><time class="news-date" datetime="2026-02">Feb 2026</time><span class="news-category">Publication</span><span class="news-summary">One paper is accepted to IEEE ICRA 2026.</span></li>
+  <li><time class="news-date" datetime="2025-11">Nov 2025</time><span class="news-category">Award</span><span class="news-summary">I am selected as Purdue University Faculty Scholar.</span></li>
+  <li><time class="news-date" datetime="2025-10">Oct 2025</time><span class="news-category">Service</span><span class="news-summary">I will be serving on the TPC of ACM CODASPY 2026.</span></li>
+  <li><time class="news-date" datetime="2025-10">Oct 2025</time><span class="news-category">Service</span><span class="news-summary">I will be serving on the TPC of ACM CCS 2026.</span></li>
+  <li><time class="news-date" datetime="2025-04">Apr 2025</time><span class="news-category">Publication</span><span class="news-summary">Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratulations on your very first paper!</span></li>
+  <li><time class="news-date" datetime="2025-04">Apr 2025</time><span class="news-category">Service</span><span class="news-summary">I was invited to serve on the TPC for ESORICS 2025.</span></li>
+  <li><time class="news-date" datetime="2025-04">Apr 2025</time><span class="news-category">Appointment</span><span class="news-summary">I have been promoted to Associate Professor with tenure starting Fall 2025!</span></li>
+  <li><time class="news-date" datetime="2025-03">Mar 2025</time><span class="news-category">Service</span><span class="news-summary">I was invited to serve on the TPC for IEEE S&amp;P 2026.</span></li>
+  <li><time class="news-date" datetime="2025-03">Mar 2025</time><span class="news-category">Appointment</span><span class="news-summary">I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.</span></li>
+  <li><time class="news-date" datetime="2025-02">Feb 2025</time><span class="news-category">Appointment</span><span class="news-summary">I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.</span></li>
+  <li><time class="news-date" datetime="2025-01">Jan 2025</time><span class="news-category">Publication</span><span class="news-summary">Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.</span></li>
+  <li><time class="news-date" datetime="2024-10">Oct 2024</time><span class="news-category">Publication</span><span class="news-summary">Our paper about studying LDP robustness under the threat of external data manipulation was accepted to NDSS 2025!</span></li>
+  <li><time class="news-date" datetime="2024-10">Oct 2024</time><span class="news-category">Service</span><span class="news-summary">I was invited to join the PC of ACM CODASPY 2025. Please consider submitting your work.</span></li>
+  <li><time class="news-date" datetime="2024-08">Aug 2024</time><span class="news-category">Publication</span><span class="news-summary">Our paper was accepted by IEEE Transactions on Service Computing!</span></li>
+  <li><time class="news-date" datetime="2024-07">Jul 2024</time><span class="news-category">Publication</span><span class="news-summary">Our paper was accepted by RAID 2024!</span></li>
+  <li><time class="news-date" datetime="2024-07">Jul 2024</time><span class="news-category">Publication</span><span class="news-summary">Our paper was accepted by IEEE Transactions on Dependable and Secure Computing!</span></li>
+  <li><time class="news-date" datetime="2024-06">Jun 2024</time><span class="news-category">Award</span><span class="news-summary">I received the Employee Recognition Award for Departmental Achievements.</span></li>
+  <li><time class="news-date" datetime="2024-06">Jun 2024</time><span class="news-category">Publication</span><span class="news-summary">One paper was accepted by IEEE Transactions on Information Forensics and Security.</span></li>
+  <li><time class="news-date" datetime="2024-04">Apr 2024</time><span class="news-category">Award</span><span class="news-summary">I was invited to join the dinner with President Chiang for prestigious external award recipients.</span></li>
+  <li><time class="news-date" datetime="2024-04">Apr 2024</time><span class="news-category">Talk</span><span class="news-summary">I was invited to give a talk in CERIAS Security Symposium 2024.</span></li>
+  <li><time class="news-date" datetime="2024-03">Mar 2024</time><span class="news-category">Publication</span><span class="news-summary">Our work on low-latency random number provider for BFT smart contracts has been accepted by DSN 2024. Congrats to Dr. Jinghui Liao!</span></li>
+  <li><time class="news-date" datetime="2024-02">Feb 2024</time><span class="news-category">Award</span><span class="news-summary">I received the departmental award for Outstanding Faculty in Discovery.</span></li>
+</ul>
 
 <div class="news-toggle-wrap" data-news-toggle-wrap="true" hidden>
 <button type="button" id="news-toggle" class="news-toggle" data-news-toggle="true" aria-controls="recent-news-list" aria-expanded="false" hidden>Show earlier news</button>
