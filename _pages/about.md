@@ -124,6 +124,11 @@ Honors and Awards
 * **[TPDS'14]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y.Thomas Hou, and Hui Li, _"Verifiable Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ IEEE Transactions on Parallel and Distributed Systems, 2014.  
 * **[INFOCOM'14]** Wenhai Sun, Shucheng Yu, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Protecting Your Right: Attribute-based Keyword Search with Fine-grained Owner-enforced Search Authorization in the Cloud,"_ IEEE International Conference on Computer Communications, 2014.  
 * **[AsiaCCS'13]** Wenhai Sun, Bing Wang, Ning Cao, Ming Li, Wenjing Lou, Y. Thomas Hou, and Hui Li, _"Privacy-preserving Multi-keyword Text Search in the Cloud Supporting Similarity-based Ranking,"_ The 8th ACM Symposium on Information, Computer and Communications Security, 2013. (Distinguished Paper Award).
+{: #publication-list .publication-list data-publication-list="true"}
+
+<div class="publication-toggle-wrap" data-publication-toggle-wrap="true" hidden>
+<button type="button" id="publication-toggle" class="publication-toggle" data-publication-toggle="true" aria-controls="publication-list" aria-expanded="false" hidden>Show all publications</button>
+</div>
 
 ## Services
 {: #service}

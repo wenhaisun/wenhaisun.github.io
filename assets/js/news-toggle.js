@@ -1,18 +1,16 @@
 (function () {
   'use strict';
 
-  var visibleCount = 8;
-
-  function setItemVisibility(list, expanded) {
+  function setItemVisibility(list, expanded, visibleCount) {
     Array.prototype.forEach.call(list.children, function (item, index) {
       item.hidden = !expanded && index >= visibleCount;
     });
   }
 
-  function initializeNewsToggle() {
-    var list = document.querySelector('[data-news-list]');
-    var toggle = document.querySelector('[data-news-toggle]');
-    var toggleWrap = document.querySelector('[data-news-toggle-wrap]');
+  function initializeListToggle(options) {
+    var list = document.querySelector(options.listSelector);
+    var toggle = document.querySelector(options.toggleSelector);
+    var toggleWrap = document.querySelector(options.wrapSelector);
 
     if (!list || !toggle) {
       return;
@@ -23,17 +21,17 @@
     var expanded = false;
     var wasExpandable = false;
 
-    function updateNewsState() {
-      var hasEarlierNews = list.children.length > visibleCount;
+    function updateListState() {
+      var hasHiddenItems = list.children.length > options.visibleCount;
 
-      if (!hasEarlierNews) {
+      if (!hasHiddenItems) {
         expanded = false;
         wasExpandable = false;
-        setItemVisibility(list, true);
+        setItemVisibility(list, true, options.visibleCount);
         toggle.hidden = true;
         toggleWrap.hidden = true;
         toggle.setAttribute('aria-expanded', 'true');
-        toggle.textContent = 'Show earlier news';
+        toggle.textContent = options.collapsedLabel;
         return;
       }
 
@@ -42,31 +40,51 @@
       }
 
       wasExpandable = true;
-      setItemVisibility(list, expanded);
+      setItemVisibility(list, expanded, options.visibleCount);
       toggle.hidden = false;
       toggleWrap.hidden = false;
       toggle.setAttribute('aria-expanded', String(expanded));
-      toggle.textContent = expanded ? 'Show fewer news' : 'Show earlier news';
+      toggle.textContent = expanded ? options.expandedLabel : options.collapsedLabel;
     }
 
     toggle.addEventListener('click', function () {
       expanded = !expanded;
-      setItemVisibility(list, expanded);
+      setItemVisibility(list, expanded, options.visibleCount);
       toggle.setAttribute('aria-expanded', String(expanded));
-      toggle.textContent = expanded ? 'Show fewer news' : 'Show earlier news';
+      toggle.textContent = expanded ? options.expandedLabel : options.collapsedLabel;
     });
 
-    updateNewsState();
+    updateListState();
 
     if (window.MutationObserver) {
-      var observer = new window.MutationObserver(updateNewsState);
+      var observer = new window.MutationObserver(updateListState);
       observer.observe(list, { childList: true });
     }
   }
 
+  function initializeExpandableLists() {
+    initializeListToggle({
+      listSelector: '[data-news-list]',
+      toggleSelector: '[data-news-toggle]',
+      wrapSelector: '[data-news-toggle-wrap]',
+      visibleCount: 8,
+      collapsedLabel: 'Show earlier news',
+      expandedLabel: 'Show fewer news'
+    });
+
+    initializeListToggle({
+      listSelector: '[data-publication-list]',
+      toggleSelector: '[data-publication-toggle]',
+      wrapSelector: '[data-publication-toggle-wrap]',
+      visibleCount: 15,
+      collapsedLabel: 'Show all publications',
+      expandedLabel: 'Show fewer publications'
+    });
+  }
+
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initializeNewsToggle);
+    document.addEventListener('DOMContentLoaded', initializeExpandableLists);
   } else {
-    initializeNewsToggle();
+    initializeExpandableLists();
   }
 }());

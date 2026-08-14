@@ -176,7 +176,8 @@
     }
   }
 
-  .news-toggle-wrap {
+  .news-toggle-wrap,
+  .publication-toggle-wrap {
     margin: 0.25rem 0 1.4rem;
 
     &[hidden] {
@@ -184,7 +185,8 @@
     }
   }
 
-  .news-toggle {
+  .news-toggle,
+  .publication-toggle {
     display: block;
     margin: 0;
     padding: 0.45rem 0.8rem;
@@ -225,6 +227,10 @@
         color: var(--global-link-color);
         font-size: 0.8em;
       }
+
+      &[hidden] {
+        display: none;
+      }
     }
   }
 
@@ -254,7 +260,8 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .page--home .news-toggle {
+  .page--home .news-toggle,
+  .page--home .publication-toggle {
     transition: none;
   }
 }
