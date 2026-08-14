@@ -146,6 +146,12 @@
     > ol {
       margin-top: 0;
     }
+
+    /* Keep prose at a comfortable reading measure while allowing structured
+       lists, especially publications, to use the full content column. */
+    > p {
+      max-width: 72ch;
+    }
   }
 
   .news-list {
