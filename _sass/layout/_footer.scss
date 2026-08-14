@@ -60,13 +60,13 @@
 .page__footer-copyright {
   color: var(--global-text-color);
   font-family: $global-font-family;
-  font-size: $type-size-6;
-  line-height: 1.5;
+  font-size: 0.82rem;
+  line-height: 1.55;
 }
 
 .page__footer-updated {
   display: block;
-  margin-top: 0.25rem;
+  margin-top: 0.35rem;
 }
 
 .page__footer-follow {

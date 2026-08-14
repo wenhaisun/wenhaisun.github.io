@@ -53,6 +53,11 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
+
+    @include breakpoint($large) {
+      font-size: 0.82rem;
+      line-height: 1.55;
+    }
   }
 
   img {
@@ -134,6 +139,11 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+
+  @include breakpoint($large) {
+    font-size: 1.05rem;
+    line-height: 1.25;
+  }
 }
 
 .sidebar .author__desktop {
