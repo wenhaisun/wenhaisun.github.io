@@ -314,6 +314,28 @@
   }
 }
 
+/* Homepage section position indicator */
+.greedy-nav {
+  .visible-links a[aria-current="location"] {
+    color: var(--global-masthead-link-color-hover);
+    font-weight: 600;
+
+    &::before {
+      height: 3px;
+      background-color: #cfb991;
+      -webkit-transform: scaleX(1);
+          -ms-transform: scaleX(1);
+              transform: scaleX(1);
+    }
+  }
+
+  .hidden-links a[aria-current="location"] {
+    color: var(--global-masthead-link-color-hover);
+    font-weight: 600;
+    background-color: rgba(207, 185, 145, 0.16);
+    box-shadow: inset 3px 0 0 #cfb991;
+  }
+}
 
 /*
    Navigation list
