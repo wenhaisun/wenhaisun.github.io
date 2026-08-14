@@ -43,7 +43,7 @@ For a paragraph break: Use an empty line. -->
 - **[Aug, 2026]** I joined the PC of NDSS 2027.
 - **[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.
 - **[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.
-- **[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).
+- **[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arXiv](https://arxiv.org/abs/2606.17035).
 - **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.
 - **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.
 - **[Nov, 2025]** I am selected as Purdue University Faculty Scholar.
@@ -90,7 +90,7 @@ Honors and Awards
 
 ## Selected Publications
 {: #publications}
-* **[Arxiv'26]** Xiaolin Li, Ning Wang, Ninghui Li, and Wenhai Sun, _["Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning,"](https://arxiv.org/abs/2606.17035)_ arXiv preprint, 2026.
+* **[arXiv'26]** Xiaolin Li, Ning Wang, Ninghui Li, and Wenhai Sun, _["Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning,"](https://arxiv.org/abs/2606.17035)_ arXiv preprint, 2026.
 * **[ICRA'26]** Weizheng Wang, Baijian Yang, Sungeun Hong, Wenhai Sun, and Byung-Cheol Min, _"Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction,"_ The IEEE International Conference on Robotics and Automation (ICRA), 2026.  
 * **[CCS'25]** Xiaolin Li, Ninghui Li, Boyang Wang and Wenhai Sun, _"Mitigating Data Poisoning Attacks to Local Differential Privacy,"_ The ACM Conference on Computer and Communications Security, 2025.    
 * **[IoTJ'25]** Yue Li, Ifteher Alom, Wenhai Sun and Yang Xiao, _"DEXO: A Secure and Fair Exchange Mechanism for Decentralized IoT Data Markets,"_ IEEE Internet of Things Journal, 2025.  
