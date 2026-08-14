@@ -40,19 +40,25 @@ For a paragraph break: Use an empty line. -->
 
 ## Recent News
 {: #news}
-**[Aug, 2026]** I joined the PC of NDSS 2027.     
-**[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.   
-**[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.   
-**[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).   
-**[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.  
-**[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.  
-**[Nov, 2025]** I am selected as Purdue University Faculty Scholar.  
-**[Oct, 2025]** I will be serving on the TPC of ACM CODASPY 2026.  
-**[Oct, 2025]** I will be serving on the TPC of ACM CCS 2026.   
-**[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratulations on your very first paper!<br>
-**[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.   
+- **[Aug, 2026]** I joined the PC of NDSS 2027.
+- **[Aug, 2026]** I accepted a courtesy appointment at Purdue CS.
+- **[June, 2026]** I was invited to serve on the TPC of USENIX Security 2027.
+- **[June, 2026]** We published a preprint about adversarial perturbation enabled backdoor attacks on differentially private federated learning at [arxiv](https://arxiv.org/abs/2606.17035).
+- **[Mar, 2026]** I was invited to serve the TPC of IEEE S&P 2027 and IEEE INFOCOM 2027.
+- **[Feb, 2026]** One paper is accepted to IEEE ICRA 2026.
+- **[Nov, 2025]** I am selected as Purdue University Faculty Scholar.
+- **[Oct, 2025]** I will be serving on the TPC of ACM CODASPY 2026.
+- **[Oct, 2025]** I will be serving on the TPC of ACM CCS 2026.
+- **[Apr, 2025]** Our paper about mitigating the data poisoning threat to LDP has been accepted by ACM CCS 2025! Xiaolin, congratulations on your very first paper!
+- **[Apr, 2025]** I was invited to serve on the TPC for ESORICS 2025.
+- **[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.
+{: #recent-news-list .news-list data-news-list="true"}
+
+<div class="news-toggle-wrap" data-news-toggle-wrap="true" hidden>
+<button type="button" id="news-toggle" class="news-toggle" data-news-toggle="true" aria-controls="recent-news-list" aria-expanded="false" hidden>Show earlier news</button>
+</div>
+
 <!-- **[Apr, 2025]** I have been promoted to Associate Professor with tenure staring Fall 2025!   -->
-**[Mar, 2025]** I was invited to serve on the TPC for IEEE S&P 2026.      
 <!-- **[Mar, 2025]** I was appointed as Associate Editor of IEEE Transactions on Information Forensics and Security.  
 **[Feb, 2025]** I was appointed as Associate Editor of IEEE Transactions on Dependable and Secure Computing.  
 **[Jan, 2025]** Our paper about secure and fair exchange for decentralized IoT data market was accepted to IEEE IoT Journal.   -->
