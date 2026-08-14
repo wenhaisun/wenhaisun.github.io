@@ -185,7 +185,7 @@ Honors and Awards
 {: #students}
 <div class="student-groups">
   <section class="student-group student-group--current" aria-labelledby="current-students-heading">
-    <h3 id="current-students-heading" class="student-group__heading">Current students <span class="student-group__count">7 students</span></h3>
+    <h3 id="current-students-heading" class="student-group__heading">Current students</h3>
     <ul class="student-list">
       <li><div><span class="student-entry__name">Sampad Sikder</span><span class="student-entry__detail">PhD student</span></div><span class="student-entry__date">2026.8–</span></li>
       <li><div><span class="student-entry__name">Aanand Balasubramanian</span><span class="student-entry__detail">PhD student</span></div><span class="student-entry__date">2026.8–</span></li>
@@ -198,7 +198,7 @@ Honors and Awards
   </section>
 
   <section class="student-group student-group--alumni" aria-labelledby="alumni-heading">
-    <h3 id="alumni-heading" class="student-group__heading">Alumni <span class="student-group__count">6 alumni</span></h3>
+    <h3 id="alumni-heading" class="student-group__heading">Alumni</h3>
     <ul class="student-list">
       <li><div><span class="student-entry__name">Muataz Awad (Microsoft)</span><span class="student-entry__detail">Doctor of Technology</span></div><span class="student-entry__date">2023–2026</span></li>
       <li><div><span class="student-entry__name">Weizheng Wang</span><span class="student-entry__detail">PhD student, Co-advised with Dr. Byung-Cheol Min</span></div><span class="student-entry__date">2025–2026</span></li>
