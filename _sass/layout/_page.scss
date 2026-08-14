@@ -166,6 +166,27 @@
     }
   }
 
+  .research-areas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin: -0.15rem 0 1.45rem;
+    padding: 0;
+    list-style: none;
+
+    > li {
+      margin: 0;
+      padding: 0.28rem 0.62rem;
+      color: #765f2f;
+      font-size: 0.82rem;
+      font-weight: 600;
+      line-height: 1.35;
+      background-color: rgba(207, 185, 145, 0.14);
+      border: 1px solid rgba(118, 95, 47, 0.3);
+      border-radius: 3px;
+    }
+  }
+
   .news-list {
     margin: 0.85rem 0 0.75rem;
     padding-left: 0;

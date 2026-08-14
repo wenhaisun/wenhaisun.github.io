@@ -25,8 +25,15 @@ redirect_from:
 
 <!-- Short Bio
 ---------- -->
-I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI/ML, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and trustworthy AI. I am the recipient of the NSF CAREER Award and University Faculty Scholar.
+I hold two Ph.D. degrees in [computer science](https://www.cnsr.ictas.vt.edu/) and cryptography. I study security and privacy issues in broad systems and applications, such as AI/ML, cloud, blockchain, and cyber-physical systems. I am particularly interested in AI for privacy and Trustworthy AI/ML. I am the recipient of the NSF CAREER Award and University Faculty Scholar.
 {: #about}
+
+<ul class="research-areas" aria-label="Research areas">
+  <li>Privacy</li>
+  <li>Trustworthy AI/ML</li>
+  <li>Cloud &amp; Blockchain</li>
+  <li>Cyber-Physical Systems</li>
+</ul>
 
 <!-- My research covers various topics with the focus on AI/ML for privacy and security, AI/ML privacy and security, privacy-enhancing technologies, confidential computing, decentralized trust and infrastructure, and cyber-physical systems security. I am the recipient of NSF CAREER Award 2023. -->
 
