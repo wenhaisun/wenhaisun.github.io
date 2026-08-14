@@ -205,6 +205,10 @@
   .visible-links {
     display: table;
 
+    @include breakpoint($medium) {
+      font-size: 0.9rem;
+    }
+
     li {
       display: table-cell;
       vertical-align: middle;
