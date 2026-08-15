@@ -51,6 +51,7 @@
     "title": "Mitigating Data Poisoning Attacks to Local Differential Privacy",
     "source": "The ACM Conference on Computer and Communications Security, 2025",
     "paper_url": "https://dl.acm.org/doi/10.1145/3719027.3744839",
+    "code_url": "https://github.com/Marvin-huoshan/MDPA_LDP/",
     "bib_type": "inproceedings",
     "booktitle": "Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security",
     "pages": "1230-1244",
