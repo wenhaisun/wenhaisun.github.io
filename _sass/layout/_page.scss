@@ -353,7 +353,7 @@
 
   .publication-entry__layout {
     display: grid;
-    grid-template-columns: 5.7rem minmax(0, 1fr);
+    grid-template-columns: 8rem minmax(0, 1fr);
     gap: 0.95rem;
     align-items: start;
   }
@@ -367,7 +367,8 @@
     font-weight: 700;
     line-height: 1.35;
     letter-spacing: 0.025em;
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
     border-left: 3px solid var(--publication-type-color);
   }
 
