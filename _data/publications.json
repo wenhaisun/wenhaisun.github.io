@@ -33,6 +33,7 @@
     ],
     "title": "Hyper-STTN: Hypergraph Augmented Spatial-Temporal Transformer Network for Trajectory Prediction",
     "source": "The IEEE International Conference on Robotics and Automation (ICRA), 2026",
+    "paper_url": "https://arxiv.org/pdf/2401.06344",
     "bib_type": "inproceedings",
     "booktitle": "2026 IEEE International Conference on Robotics and Automation (ICRA)"
   },
