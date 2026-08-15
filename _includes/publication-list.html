@@ -1,0 +1,68 @@
+<div class="publication-legend" aria-label="Publication type legend">
+  <span><i class="publication-legend__marker publication-legend__marker--conference" aria-hidden="true"></i>Conference</span>
+  <span><i class="publication-legend__marker publication-legend__marker--journal" aria-hidden="true"></i>Journal</span>
+  <span><i class="publication-legend__marker publication-legend__marker--preprint" aria-hidden="true"></i>Preprint</span>
+  <span><i class="publication-legend__marker publication-legend__marker--workshop" aria-hidden="true"></i>Workshop</span>
+</div>
+
+<ul id="publication-list" class="publication-list publication-list--formatted" data-publication-list="true">
+{% for publication in include.publications %}
+  <li class="publication-entry publication-entry--{{ publication.type }}">
+    <div class="publication-entry__layout">
+      <div class="publication-entry__venue">{{ publication.venue }}</div>
+      <div class="publication-entry__body">
+        <h3 class="publication-entry__title">{{ publication.title }}</h3>
+        <div class="publication-entry__authors">
+          {% assign author_count = publication.authors | size %}
+          {% if author_count == 1 %}
+            {{ publication.authors[0] }}
+          {% elsif author_count == 2 %}
+            {{ publication.authors[0] }} and {{ publication.authors[1] }}
+          {% else %}
+            {% for author in publication.authors %}{% if forloop.last %}and {{ author }}{% else %}{{ author }}, {% endif %}{% endfor %}
+          {% endif %}
+        </div>
+        <div class="publication-entry__source">{{ publication.source }}.{% if publication.note %} <span class="publication-entry__note">{{ publication.note }}</span>{% endif %}</div>
+        <div class="publication-entry__actions">
+          {% if publication.paper_url %}
+          <a class="publication-action" href="{{ publication.paper_url }}" target="_blank" rel="noopener noreferrer">
+            <span>PAPER</span>
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 3h8v8M13 3 3 13" /></svg>
+          </a>
+          {% endif %}
+          <button type="button" class="publication-action" data-publication-bib-toggle="true" aria-expanded="false" aria-controls="bib-{{ publication.key }}">
+            BIB
+          </button>
+          {% if publication.code_url %}
+          <a class="publication-action publication-action--code" href="{{ publication.code_url }}" target="_blank" rel="noopener noreferrer">
+            <span>CODE</span>
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 3h8v8M13 3 3 13" /></svg>
+          </a>
+          {% endif %}
+        </div>
+        <div id="bib-{{ publication.key }}" class="publication-bib" hidden>
+          <pre><code>@{{ publication.bib_type }}&#123;{{ publication.key }},
+  author = &#123;{{ publication.authors | join: ' and ' }}&#125;,
+  title = &#123;{{ publication.title }}&#125;,
+{% if publication.journal %}  journal = &#123;{{ publication.journal }}&#125;,
+{% endif %}{% if publication.booktitle %}  booktitle = &#123;{{ publication.booktitle }}&#125;,
+{% endif %}  year = &#123;{{ publication.year }}&#125;,
+{% if publication.volume %}  volume = &#123;{{ publication.volume }}&#125;,
+{% endif %}{% if publication.number %}  number = &#123;{{ publication.number }}&#125;,
+{% endif %}{% if publication.pages %}  pages = &#123;{{ publication.pages | replace: '-', '--' }}&#125;,
+{% endif %}{% if publication.publisher %}  publisher = &#123;{{ publication.publisher }}&#125;,
+{% endif %}{% if publication.doi %}  doi = &#123;{{ publication.doi }}&#125;,
+{% endif %}{% if publication.eprint %}  eprint = &#123;{{ publication.eprint }}&#125;,
+{% endif %}{% if publication.archive_prefix %}  archivePrefix = &#123;{{ publication.archive_prefix }}&#125;,
+{% endif %}{% if publication.bib_url %}  url = &#123;{{ publication.bib_url }}&#125;,
+{% endif %}&#125;</code></pre>
+        </div>
+      </div>
+    </div>
+  </li>
+{% endfor %}
+</ul>
+
+<div class="publication-toggle-wrap" data-publication-toggle-wrap="true" hidden>
+  <button type="button" id="publication-toggle" class="publication-toggle" data-publication-toggle="true" aria-controls="publication-list" aria-expanded="false" hidden>Show all publications</button>
+</div>
