@@ -1,0 +1,81 @@
+diff --git a/assets/js/section-navigation.js b/assets/js/section-navigation.js
+index b379f3a..bc26fc4 100644
+--- a/assets/js/section-navigation.js
++++ b/assets/js/section-navigation.js
+@@ -6,7 +6,11 @@
+ 
+   var links = Array.prototype.slice.call(nav.querySelectorAll('a[href^="#"]'));
+   var entries = [];
+-  var entriesById = {};
++  var entriesById = Object.create(null);
++
++  function hasEntry(id) {
++    return Object.prototype.hasOwnProperty.call(entriesById, id);
++  }
+ 
+   function decodeId(value) {
+     try {
+@@ -21,7 +25,7 @@
+     var id = decodeId(href.slice(1));
+     var section = id ? document.getElementById(id) : null;
+ 
+-    if (!section || entriesById[id]) return;
++    if (!section || hasEntry(id)) return;
+ 
+     var entry = { id: id, link: link, section: section };
+     entries.push(entry);
+@@ -38,7 +42,7 @@
+   };
+ 
+   function setActive(id) {
+-    if (!entriesById[id] || id === activeId) return;
++    if (!hasEntry(id) || id === activeId) return;
+ 
+     activeId = id;
+     entries.forEach(function (entry) {
+@@ -62,6 +66,11 @@
+ 
+     if (pendingNavigationId) {
+       var pendingEntry = entriesById[pendingNavigationId];
++      if (!pendingEntry || !pendingEntry.section) {
++        pendingNavigationId = "";
++        scheduleUpdate();
++        return;
++      }
+       var pendingIndex = entries.indexOf(pendingEntry);
+       var nextEntry = pendingIndex >= 0 ? entries[pendingIndex + 1] : null;
+       var pendingReached = pendingEntry.section.getBoundingClientRect().top <= threshold &&
+@@ -101,7 +110,7 @@
+     var hash = window.location.hash || "";
+     var id = decodeId(hash.charAt(0) === "#" ? hash.slice(1) : hash);
+ 
+-    if (entriesById[id]) {
++    if (hasEntry(id)) {
+       pendingNavigationId = id;
+       setActive(id);
+     } else {
+@@ -116,7 +125,7 @@
+       var href = link.getAttribute("href") || "";
+       var id = decodeId(href.slice(1));
+ 
+-      if (entriesById[id]) {
++      if (hasEntry(id)) {
+         pendingNavigationId = id;
+         setActive(id);
+         scheduleUpdate();
+diff --git a/test/test_section_navigation.py b/test/test_section_navigation.py
+new file mode 100644
+index 0000000..17e703a
+--- /dev/null
++++ b/test/test_section_navigation.py
+@@ -0,0 +1,10 @@
++from pathlib import Path
++
++
++SCRIPT = (Path(__file__).parents[1] / "assets/js/section-navigation.js").read_text()
++
++
++def test_section_navigation_rejects_inherited_fragment_keys():
++    assert "Object.create(null)" in SCRIPT
++    assert "Object.prototype.hasOwnProperty.call(entriesById, id)" in SCRIPT
++    assert "if (!pendingEntry || !pendingEntry.section)" in SCRIPT
