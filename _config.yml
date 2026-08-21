@@ -95,12 +95,18 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
+    embed_integrity       : # Required SRI digest for the Disqus embed script.
+    count_integrity       : # Required SRI digest for the Disqus count script.
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    integrity             : # Required SRI digest for the Discourse embed script.
   facebook:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+    integrity             : # Required SRI digest for the Facebook SDK.
+  google_plus:
+    integrity             : # Required SRI digest for the Google+ script.
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -163,6 +169,10 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+  integrity:
+    google                : # Required SRI digest for the legacy Google Analytics script.
+    google_universal      : # Required SRI digest for analytics.js.
+    google_analytics_4    : # Required SRI digest for the gtag.js script.
 
 
 # Reading Files
