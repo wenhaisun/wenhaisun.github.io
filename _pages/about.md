@@ -107,6 +107,7 @@ Honors and Awards
 <ul class="service-rows service-rows--committees">
   <li><span class="service-entry__name">NDSS</span><span class="service-entry__date">2027</span></li>
   <li><span class="service-entry__name">USENIX Security</span><span class="service-entry__date">2027</span></li>
+  <li><span class="service-entry__name">SaTML</span><span class="service-entry__date">2027</span></li>
   <li><span class="service-entry__name">ACM CCS</span><span class="service-entry__date">2026</span></li>
   <li><span class="service-entry__name">IEEE S&amp;P</span><span class="service-entry__date">2026, 2027</span></li>
   <li><span class="service-entry__name">ESORICS</span><span class="service-entry__date">2025</span></li>
