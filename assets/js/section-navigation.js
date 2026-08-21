@@ -6,7 +6,7 @@
 
   var links = Array.prototype.slice.call(nav.querySelectorAll('a[href^="#"]'));
   var entries = [];
-  var entriesById = {};
+  var entriesById = Object.create(null);
 
   function decodeId(value) {
     try {
@@ -64,6 +64,11 @@
       var pendingEntry = entriesById[pendingNavigationId];
       var pendingIndex = entries.indexOf(pendingEntry);
       var nextEntry = pendingIndex >= 0 ? entries[pendingIndex + 1] : null;
+      if (!pendingEntry || !pendingEntry.section || (nextEntry && !nextEntry.section)) {
+        pendingNavigationId = "";
+        scheduleUpdate();
+        return;
+      }
       var pendingReached = pendingEntry.section.getBoundingClientRect().top <= threshold &&
         (!nextEntry || nextEntry.section.getBoundingClientRect().top > threshold);
 
