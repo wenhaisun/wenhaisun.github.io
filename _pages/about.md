@@ -48,6 +48,7 @@ For a paragraph break: Use an empty line. -->
 ## Recent News
 {: #news}
 <ul id="recent-news-list" class="news-list" data-news-list="true">
+  <li><time class="news-date" datetime="2026-09">Sep 2026</time><span class="news-category">Publication</span><span class="news-summary">Our paper about backdoor attacks on differentially private federated learning has been accepted by IEEE S&amp;P 2027.</span></li>
   <li><time class="news-date" datetime="2026-08">Aug 2026</time><span class="news-category">Service</span><span class="news-summary">I joined the PC of NDSS 2027 and SaTML 2027.</span></li>
   <li><time class="news-date" datetime="2026-08">Aug 2026</time><span class="news-category">Appointment</span><span class="news-summary">I accepted a courtesy appointment at Purdue CS.</span></li>
   <li><time class="news-date" datetime="2026-06">Jun 2026</time><span class="news-category">Service</span><span class="news-summary">I was invited to serve on the TPC of USENIX Security 2027.</span></li>
