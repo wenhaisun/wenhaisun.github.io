@@ -1,9 +1,9 @@
 [
   {
-    "key": "li2026privacy",
-    "venue": "arXiv'26",
-    "type": "preprint",
-    "year": 2026,
+    "key": "li2027privacy",
+    "venue": "S&P'27",
+    "type": "conference",
+    "year": 2027,
     "authors": [
       "Xiaolin Li",
       "Ning Wang",
@@ -11,13 +11,14 @@
       "Wenhai Sun"
     ],
     "title": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
-    "source": "arXiv preprint, 2026",
-    "paper_url": "https://arxiv.org/pdf/2606.17035",
-    "bib_type": "article",
-    "journal": "arXiv preprint arXiv:2606.17035",
-    "bib_url": "https://arxiv.org/pdf/2606.17035",
-    "eprint": "2606.17035",
-    "archive_prefix": "arXiv"
+    "source": "IEEE Symposium on Security and Privacy, 2027",
+    "note": "To appear.",
+    "paper_url": "/files/sp2027c1-final.pdf",
+    "code_url": "https://github.com/Marvin-huoshan/RING",
+    "bib_type": "inproceedings",
+    "booktitle": "2027 IEEE Symposium on Security and Privacy (SP)",
+    "publisher": "IEEE",
+    "bib_url": "https://whsun.org/files/sp2027c1-final.pdf"
   },
   {
     "key": "wang2026hyper",
